@@ -5,7 +5,7 @@ import TheWelcome from './components/biodata.vue'
 
 <template>
   <header>
-    <img alt="Vue logo" class="logo" src="./assets/apa.PNG" width="400" height="400" />
+    <img alt="Vue logo" class="logo" src="https://media.discordapp.net/attachments/1190324338684084355/1255558138854379653/apa.png?ex=667d9123&is=667c3fa3&hm=b2e44802f1a83b8bb341fa29c2542c47a6338ae26bbc31d7515bf1c11d8b29ae&=&format=webp&quality=lossless&width=222&height=350" width="400" height="s00" />
 
     <div class="wrapper">
       <HelloWorld msg="Hallo Nama Saya Thyo aji Dinata " />
